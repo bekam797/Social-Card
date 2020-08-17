@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Components/Card';
 import cardData from './CardData';
-import Logo from './assets/imges/logo.jpg';
+import Logo from './assets/imges/logo.png';
 import './App.css';
 
 function App() {

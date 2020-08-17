@@ -111,10 +111,3 @@
   color: #aaa;
   text-decoration: none;
 }
-
-@media (max-width: 450px) {
-  :root {
-    --height: 485px;
-    --main-height: 345px;
-  }
-}
